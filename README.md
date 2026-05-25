@@ -57,10 +57,6 @@ propulsion-studio/
 └── package.json        # Optional Vite/React toolchain
 ```
 
-## Deploy on the web
-
-See **[docs/DEPLOY.md](docs/DEPLOY.md)** for GitHub Pages, Netlify, Cloudflare Pages, Vercel, and Azure/AWS options.
-
 ## Tests
 
 ```bash

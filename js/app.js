@@ -200,7 +200,7 @@ function renderLanding() {
           <div class="feature-pill"><strong>Mission Suitability</strong><span>10 mission profiles with recommendations</span></div>
           <div class="feature-pill"><strong>Compare & Export</strong><span>Save, compare, JSON/PNG/PDF export</span></div>
         </div>
-        <p class="landing-disclaimer">Design-level engineering estimates — see docs/PHYSICS.md for model scope.</p>
+        <p class="landing-disclaimer">Design-level engineering estimates — see docs/PHYSICS.md for model scope. Designed by Ansh Pathak. www.anshpathak.us</p>
       </div>
     </main>`;
 }

@@ -7,6 +7,7 @@ Modular aerospace propulsion design platform with live analysis, mission suitabi
 1. Double-click **`start.bat`** or **`Launch Propulsion Studio.bat`**
 2. Browser opens at **http://localhost:5173**
 3. Click **Start Designing** or **How to Use** for the guided overlay
+4. **OR** Visit: https://abc000cool.github.io/propulsion-studio/
 
 Uses bundled Node from Cursor if system Node is not installed.
 
